@@ -1,0 +1,24 @@
+﻿﻿
+@model NMEX_Manufacturing_KPIs.Models.Module_Inventory.Model
+@{
+    ViewData["Title"] = "New Model";
+}
+
+<h1>New Model</h1>
+
+<form asp-controller="Inventory" asp-action="CreateModel">
+
+    <div class="mb-3">
+        <label asp-for="Model_description" class="form-label">Model description</label>
+        <input type="text" asp-for="Model_description" class="form-control" />
+        <span asp-validation-for="Model_description" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Send</button>
+    <a class="btn btn-secondary" asp-action="Model">Cancel</a>
+
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

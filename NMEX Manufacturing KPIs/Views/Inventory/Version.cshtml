@@ -1,0 +1,58 @@
+﻿﻿
+@model IEnumerable<NMEX_Manufacturing_KPIs.Models.Module_Inventory.Version>
+@{
+    ViewData["Title"] = "Version";
+    int i = 1;
+}
+
+<h1>Version</h1>
+
+<div style="display: flex;">
+    <a asp-action="Index" class="btn btn-primary" style="margin-right: 5px;">Return</a>
+    <a asp-action="CreateVersion" class="btn btn-primary">New record</a>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Version_Descripcion</th>
+            <th>End of support</th>
+            <th>Accions</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var recordVersion in Model)
+        {
+            <tr>
+                <td>
+                    @i
+                <td>
+                        @recordVersion.Version_description
+                </td>
+                
+                    @if (recordVersion.EndOfSupport == null)
+                    {
+                        <td>
+                            Sin fecha
+                        </td>
+                    }
+                    else
+                    {
+                    <td>
+                            @recordVersion.EndOfSupport
+                    </td>
+                    }
+                    
+                <td>
+                    <div style="display: flex;">
+                        <a class="btn btn-primary" asp-action="EditVersion" asp-route-id="@recordVersion.Version_id" style="margin-right: 5px;">Edit</a>
+                        <a class="btn btn-danger" asp-action="DeleteVersion" asp-route-id="@recordVersion.Version_id">Delete</a>
+                    </div>
+                </td>
+            </tr>
+            i++;
+        }
+    </tbody>
+</table>

@@ -1,0 +1,15 @@
+﻿﻿
+@model NMEX_Manufacturing_KPIs.Models.Module_Inventory.DeviceType
+
+@{
+    ViewData["Title"] = "Delete Device Type";
+}
+
+
+<h3 class="mb-3">Are you sure you want to delete the item?</h3>
+
+<form asp-controller="Inventory" asp-action="DeleteRecordDeviceType">
+    <input type="hidden" asp-for="D_type_id">
+    <button class="btn btn-danger" type="submit">Delete</button>
+    <a class="btn btn-secondary" asp-action="DeviceType">Cancel</a>
+</form>

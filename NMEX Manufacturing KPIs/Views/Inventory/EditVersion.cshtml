@@ -1,0 +1,29 @@
+﻿﻿
+@model NMEX_Manufacturing_KPIs.Models.Module_Inventory.Version
+@{
+    ViewData["Title"] = "Edit Version";
+}
+
+<h1>Edit Version</h1>
+
+<form asp-controller="Inventory" asp-action="EditVersion">
+    <input type="hidden" asp-for="Version_id">
+    <div class="mb-3">
+        <label asp-for="Version_description" class="form-label">Version description</label>
+        <input type="text" asp-for="Version_description" class="form-control" />
+        <span asp-validation-for="Version_description" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="EndOfSupport">End of support</label>
+        <input type="date" asp-for="EndOfSupport" class="form-control" />
+        <span asp-validation-for="EndOfSupport" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Send</button>
+    <a class="btn btn-secondary" asp-action="Version">Cancel</a>
+
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

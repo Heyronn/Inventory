@@ -1,0 +1,151 @@
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\appsettings.json
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\NMEX Manufacturing KPIs.staticwebassets.runtime.json
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\NMEX Manufacturing KPIs.exe
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\NMEX Manufacturing KPIs.deps.json
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\NMEX Manufacturing KPIs.runtimeconfig.json
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\NMEX Manufacturing KPIs.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\NMEX Manufacturing KPIs.pdb
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\Dapper.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\Irony.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\XLParser.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.csproj.AssemblyReference.cache
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.AssemblyInfoInputs.cache
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.AssemblyInfo.cs
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.RazorAssemblyInfo.cache
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.RazorAssemblyInfo.cs
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\staticwebassets\msbuild.NMEX Manufacturing KPIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\staticwebassets\msbuild.build.NMEX Manufacturing KPIs.props
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NMEX Manufacturing KPIs.props
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NMEX Manufacturing KPIs.props
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\scopedcss\bundle\NMEX Manufacturing KPIs.styles.css
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\scopedcss\projectbundle\NMEX Manufacturing KPIs.bundle.scp.css
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.csproj.CopyComplete
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\refint\NMEX Manufacturing KPIs.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.pdb
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.genruntimeconfig.cache
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\ref\NMEX Manufacturing KPIs.dll
+C:\Users\Aaron\source\repos\NMEX Manufacturing KPIs\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.sourcelink.json
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\appsettings.json
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\NMEX Manufacturing KPIs.staticwebassets.runtime.json
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\NMEX Manufacturing KPIs.exe
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\NMEX Manufacturing KPIs.deps.json
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\NMEX Manufacturing KPIs.runtimeconfig.json
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\NMEX Manufacturing KPIs.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\NMEX Manufacturing KPIs.pdb
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\Dapper.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\Irony.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\XLParser.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.csproj.AssemblyReference.cache
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.AssemblyInfoInputs.cache
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.AssemblyInfo.cs
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.RazorAssemblyInfo.cache
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.RazorAssemblyInfo.cs
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\staticwebassets\msbuild.NMEX Manufacturing KPIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\staticwebassets\msbuild.build.NMEX Manufacturing KPIs.props
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NMEX Manufacturing KPIs.props
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NMEX Manufacturing KPIs.props
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\scopedcss\bundle\NMEX Manufacturing KPIs.styles.css
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\scopedcss\projectbundle\NMEX Manufacturing KPIs.bundle.scp.css
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.csproj.CopyComplete
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\refint\NMEX Manufacturing KPIs.dll
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.pdb
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\NMEX Manufacturing KPIs.genruntimeconfig.cache
+C:\Users\Aaron\source\repos\Inventory\NMEX Manufacturing KPIs\obj\Debug\net8.0\ref\NMEX Manufacturing KPIs.dll

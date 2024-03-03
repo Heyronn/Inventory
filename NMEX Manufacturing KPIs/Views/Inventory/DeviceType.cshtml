@@ -1,0 +1,43 @@
+﻿﻿
+@model IEnumerable<NMEX_Manufacturing_KPIs.Models.Module_Inventory.DeviceType>
+@{
+    ViewData["Title"] = "DeviceType";
+    int i = 1;
+}
+
+<h1>Device Type</h1>
+
+<div style="display: flex;">
+    <a asp-action="Index" class="btn btn-primary" style="margin-right: 5px;">Return</a>
+    <a asp-action="CreateDeviceType" class="btn btn-primary">New record</a>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Description</th>
+            <th>Accions</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var recordDeviceType in Model)
+        {
+            <tr>
+                <td>
+                    @i
+                <td>
+                        @recordDeviceType.D_type_description
+                </td>
+                <td>
+                    <div style="display: flex;">
+                        <a class="btn btn-primary" asp-action="EditDeviceType" asp-route-id="@recordDeviceType.D_type_id" style="margin-right: 5px;">Edit</a>
+                        <a class="btn btn-danger" asp-action="DeleteDeviceType" asp-route-id="@recordDeviceType.D_type_id">Delete</a>
+                    </div>
+                </td>
+            </tr>
+            i++;
+        }
+    </tbody>
+</table>

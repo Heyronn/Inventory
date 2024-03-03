@@ -1,0 +1,49 @@
+﻿﻿
+@model NMEX_Manufacturing_KPIs.Models.Module_Inventory.InventoryCreationViewModel
+@{
+    ViewData["Title"] = "New inventory record";
+}
+
+<h1>New inventory record</h1>
+
+<form asp-controller="Inventory" asp-action="CreateInventoryRecord">
+
+    <div class="mb-3">
+        <label asp-for="SerialNo" class="form-label">Serial No</label>
+        <input type="text" asp-for="SerialNo" class="form-control" />
+        <span asp-validation-for="SerialNo" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="D_type_id" class="form-label">Device Type</label>
+        <select asp-for="D_type_id" asp-items="Model.DeviceTypes" class="form-select"></select>
+        <span asp-validation-for="D_type_id" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Model_id" class="form-label">Model</label>
+        <select asp-for="Model_id" asp-items="Model.Models" class="form-select"></select>
+        <span asp-validation-for="Model_id" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Version_id" class="form-label">Version</label>
+        <select asp-for="Version_id" asp-items="Model.Versions" class="form-select"></select>
+        <span asp-validation-for="Version_id" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Location_id" class="form-label">Location</label>
+        <select asp-for="Location_id" asp-items="Model.Locations" class="form-select"></select>
+        <span asp-validation-for="Location_id" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="PurchaseDate">Purchase Date</label>
+        <input type="date" asp-for="PurchaseDate" class="form-control" value="" />
+        <span asp-validation-for="PurchaseDate" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Send</button>
+    <a class="btn btn-secondary" asp-action="Index">Cancel</a>
+
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

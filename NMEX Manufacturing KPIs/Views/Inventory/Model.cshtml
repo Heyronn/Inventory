@@ -1,0 +1,44 @@
+﻿﻿
+@model IEnumerable<NMEX_Manufacturing_KPIs.Models.Module_Inventory.Model>
+@{
+    ViewData["Title"] = "Model";
+    int i = 1;
+}
+
+<h1>Model</h1>
+
+<div style="display: flex;">
+    <a asp-action="Index" class="btn btn-primary" style="margin-right: 5px;">Return</a>
+    <a asp-action="CreateModel" class="btn btn-primary">New record</a>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Description</th>
+            <th>Accions</th>
+        </tr>
+
+    </thead>
+
+    <tbody>
+        @foreach (var recordModel in Model)
+        {
+            <tr>
+                <td>
+                    @i
+                <td>
+                        @recordModel.Model_description
+                </td>
+                <td>
+                    <div style="display: flex;">
+                        <a class="btn btn-primary" asp-action="EditModel" asp-route-id="@recordModel.Model_id" style="margin-right: 5px;">Edit</a>
+                        <a class="btn btn-danger" asp-action="DeleteModel" asp-route-id="@recordModel.Model_id">Delete</a>
+                    </div>
+                </td>
+            </tr>
+            i++;
+        }
+    </tbody>
+</table>

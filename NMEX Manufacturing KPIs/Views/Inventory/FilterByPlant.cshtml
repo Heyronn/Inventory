@@ -1,0 +1,23 @@
+﻿﻿
+@model NMEX_Manufacturing_KPIs.Models.Module_Inventory.InventoryCreationViewModel
+@{
+    ViewData["Title"] = "Filter by plant";
+}
+
+<h1>Filter by plant</h1>
+
+<form asp-controller="Inventory" asp-action="FilterByPlant">
+    <div class="mb-3">
+        <label asp-for="Plant_id" class="form-label">Plant</label>
+        <select asp-for="Plant_id" asp-items="Model.Plants" class="form-select"></select>
+        <span asp-validation-for="Plant_id" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Send</button>
+    <a class="btn btn-secondary" asp-action="Index">Cancel</a>
+
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

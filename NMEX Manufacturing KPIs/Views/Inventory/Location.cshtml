@@ -1,0 +1,48 @@
+﻿﻿
+@model IEnumerable<NMEX_Manufacturing_KPIs.Models.Module_Inventory.Location>
+@{
+    ViewData["Title"] = "Location";
+    int i = 1;
+}
+
+<h1>Location</h1>
+
+<div style="display: flex;">
+    <a asp-action="Index" class="btn btn-primary" style="margin-right: 5px;">Return</a>
+    <a asp-action="CreateLocation" class="btn btn-primary">New record</a>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Description</th>
+            <th>Plant</th>
+            <th>Accions</th>
+        </tr>
+
+    </thead>
+
+    <tbody>
+        @foreach (var recordLocation in Model)
+        {
+            <tr>
+                <td>
+                    @i
+                <td>
+                    @recordLocation.Location_description
+                </td>
+                <td>
+                    @recordLocation.Plant
+                </td>
+                <td>
+                    <div style="display: flex;">
+                        <a class="btn btn-primary" asp-action="EditLocation" asp-route-id="@recordLocation.Location_id" style="margin-right: 5px;">Edit</a>
+                        <a class="btn btn-danger" asp-action="DeleteLocation" asp-route-id="@recordLocation.Location_id">Delete</a>
+                    </div>
+                </td>
+            </tr>
+            i++;
+        }
+    </tbody>
+</table>

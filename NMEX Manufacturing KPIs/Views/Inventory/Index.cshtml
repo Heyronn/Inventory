@@ -1,0 +1,75 @@
+﻿﻿
+@model IEnumerable<NMEX_Manufacturing_KPIs.Models.Module_Inventory.Inventory>
+@{
+    ViewData["Title"] = "Inventory";
+    int i = 1;
+}
+
+<div style="display: flex;">
+    <a class="btn btn-primary" asp-action="DeviceType"  style="margin-right: 5px;">Manage Devices</a>
+    <a class="btn btn-primary" asp-action="Version"  style="margin-right: 5px;">Manage Versions</a>
+    <a class="btn btn-primary" asp-action="Model"  style="margin-right: 5px;">Manage Models</a>
+    <a class="btn btn-primary" asp-action="Location" style="margin-right: 5px;">Manage Locations</a>
+</div>
+
+<h1 style="margin-top: 25px;">Inventory (Planta Actual)</h1>
+<a asp-action="CreateInventoryRecord" class="btn btn-primary mb-3" style="margin-top: 5px;">New record</a>
+@* ADMIN USER *@
+<a asp-action="FilterByPlant" class="btn btn-primary mb-3" style="margin-top: 5px;">Filter by plant</a>
+
+<a asp-action="InventoryRecordExcel" class="btn btn-success mb-3" style="margin-top: 5px;">Excel</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Serial No.</th>
+            <th>Device Type</th>
+            <th>Model</th>
+            <th>Version</th>
+            <th>Location</th>
+            <th>Plant</th>
+            <th>Purchase Date</th>
+            <th>Accions</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var recordInventory in Model)
+        {
+                <tr>
+                    <td>
+                        @i
+                    </td>
+                    <td>
+                        @recordInventory.SerialNo
+                    </td>
+                    <td>
+                       @recordInventory.DeviceType
+                    </td>
+                    <td>
+                        @recordInventory.Model
+                    </td>
+                    <td>
+                        @recordInventory.Version
+                    </td>
+                    <td>
+                        @recordInventory.Location
+                    </td>
+                    <td>
+                        @recordInventory.PlantRecord
+                    </td>
+                    <td>
+                        @recordInventory.PurchaseDate
+                    </td>
+                    <td>
+                        <div style="display: flex;">
+                            <a class="btn btn-danger" asp-action="DeleteInventory" asp-route-id="@recordInventory.Inventory_Id" style="margin-right: 5px;">Delete</a>
+                            <a class="btn btn-primary" asp-action="EditInventoryRecord" asp-route-id="@recordInventory.Inventory_Id">Edit</a>
+                        </div>
+                    </td>
+                </tr>
+            i++;
+        }
+    </tbody>
+</table>

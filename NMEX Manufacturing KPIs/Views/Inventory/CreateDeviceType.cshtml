@@ -1,0 +1,22 @@
+﻿﻿
+@model NMEX_Manufacturing_KPIs.Models.Module_Inventory.DeviceType
+@{
+    ViewData["Title"] = "New Device Type";
+}
+
+<h1>New Device Type</h1>
+
+<form asp-controller="Inventory" asp-action="CreateDeviceType">
+    <div class="mb-3">
+        <label asp-for="D_type_description" class="form-label">Device Type description</label>
+        <input type="text" asp-for="D_type_description" class="form-control" />
+        <span asp-validation-for="D_type_description" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Send</button>
+    <a class="btn btn-secondary" asp-action="DeviceType">Cancel</a>
+
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
